@@ -102,7 +102,7 @@ Check out [jest 'expects' here](https://jestjs.io/docs/expect)
 
 ## :fire: Meet the Developer
 
-<img align="left" width="100" height="100" src="https://pbs.twimg.com/profile_images/1320276905271070727/zQUrdqxO_200x200.jpg">
+<img align="left" width="100" height="100" src="https://photos.google.com/search/_tra_/photo/AF1QipMvePPzeyqos1M67YP-xp9bJ0udGDIH7Ki-3UYy">
 
 [Amit Agarwal](https://www.labnol.org/about) is a web geek, Google Developers Expert (GSuite, Google Apps Script) and author of [labnol.org](https://www.labnol.org/), a popular tech how-to website.
 
